@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: ef8aca853b01c084d92ad2ed261d440b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6531587468117996506
+    second: Slider Musik_0
+  - first:
+      213: -4160215153022073866
+    second: Slider Musik_1
+  - first:
+      213: -6471325919554267723
+    second: Slider Musik_2
+  - first:
+      213: -2722266242605736931
+    second: Slider Musik_3
+  - first:
+      213: -2670948596310320125
+    second: Slider Musik_4
+  - first:
+      213: 4534089801423137829
+    second: Slider Musik_5
+  - first:
+      213: 5923835923250850226
+    second: Slider Musik_6
+  - first:
+      213: 5219401368134248746
+    second: Slider Musik_7
+  - first:
+      213: 4102631747981352236
+    second: Slider Musik_8
+  - first:
+      213: -6307812051940573605
+    second: Slider Musik_9
+  - first:
+      213: -8560041281036250804
+    second: Slider Musik_10
+  - first:
+      213: 7229503333937946304
+    second: Slider Musik_11
+  - first:
+      213: 2373987247918317697
+    second: Slider Musik_12
+  - first:
+      213: -4048884325645290471
+    second: Slider Musik_13
+  - first:
+      213: 7401480043897592649
+    second: Slider Musik_14
+  - first:
+      213: 7779278343990312605
+    second: Slider Musik_15
+  - first:
+      213: 1072331270408953692
+    second: Slider Musik_16
+  - first:
+      213: -5833462346739980120
+    second: Slider Musik_17
+  - first:
+      213: 2906635105177219003
+    second: Slider Musik_18
+  - first:
+      213: -8044806375507045099
+    second: Slider Musik_19
+  - first:
+      213: 3359009836584557374
+    second: Slider Musik_20
+  - first:
+      213: -1438811065693814940
+    second: Slider Musik_21
+  - first:
+      213: 9003841833027557972
+    second: Slider Musik_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slider Musik_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 29
+        width: 81
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c0f67bdc32b55a0800000000000000
+      internalID: -6531587468117996506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 270
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f30cee2c52f346c0800000000000000
+      internalID: -4160215153022073866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 270
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5903bdc5b3136a0800000000000000
+      internalID: -6471325919554267723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 29
+        width: 81
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c92798641983ad0800000000000000
+      internalID: -2722266242605736931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 270
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c58972762eeead0800000000000000
+      internalID: -2670948596310320125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 270
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c2c89d6a25cee30800000000000000
+      internalID: 4534089801423137829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 29
+        width: 81
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9a019e261b53250800000000000000
+      internalID: 5923835923250850226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 270
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2964d704e90f6840800000000000000
+      internalID: 5219401368134248746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 270
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d1bae86d97fe830800000000000000
+      internalID: 4102631747981352236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 17
+        width: 84
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e7726eb562678a0800000000000000
+      internalID: -6307812051940573605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 270
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c419725decf943980800000000000000
+      internalID: -8560041281036250804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 270
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce9fd98afa545460800000000000000
+      internalID: 7229503333937946304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1808a75f2d812f020800000000000000
+      internalID: 2373987247918317697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914f34168297fc7c0800000000000000
+      internalID: -4048884325645290471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b98ac92e657b660800000000000000
+      internalID: 7401480043897592649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e7e6eff6c85fb60800000000000000
+      internalID: 7779278343990312605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fd446eb9fa1ee00800000000000000
+      internalID: 1072331270408953692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 12
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a862f317e06b0fa0800000000000000
+      internalID: -5833462346739980120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 12
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfa4c76a31765820800000000000000
+      internalID: 2906635105177219003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 12
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515da15893b1b5090800000000000000
+      internalID: -8044806375507045099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 12
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b5aaa46a99d9e20800000000000000
+      internalID: 3359009836584557374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_21
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 12
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f3b6a75f0580ce0800000000000000
+      internalID: -1438811065693814940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Musik_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 12
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ad867517214fc70800000000000000
+      internalID: 9003841833027557972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slider Musik_0: -6531587468117996506
+      Slider Musik_1: -4160215153022073866
+      Slider Musik_10: -8560041281036250804
+      Slider Musik_11: 7229503333937946304
+      Slider Musik_12: 2373987247918317697
+      Slider Musik_13: -4048884325645290471
+      Slider Musik_14: 7401480043897592649
+      Slider Musik_15: 7779278343990312605
+      Slider Musik_16: 1072331270408953692
+      Slider Musik_17: -5833462346739980120
+      Slider Musik_18: 2906635105177219003
+      Slider Musik_19: -8044806375507045099
+      Slider Musik_2: -6471325919554267723
+      Slider Musik_20: 3359009836584557374
+      Slider Musik_21: -1438811065693814940
+      Slider Musik_22: 9003841833027557972
+      Slider Musik_3: -2722266242605736931
+      Slider Musik_4: -2670948596310320125
+      Slider Musik_5: 4534089801423137829
+      Slider Musik_6: 5923835923250850226
+      Slider Musik_7: 5219401368134248746
+      Slider Musik_8: 4102631747981352236
+      Slider Musik_9: -6307812051940573605
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

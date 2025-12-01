@@ -134,6 +134,7 @@ TextureImporter:
       name: walls_floor_0
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
         x: 0
         y: 352
         width: 16
@@ -141,6 +142,15 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+=======
+        x: 40
+        y: 73
+        width: 8
+        height: 91
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.47368422}
+      border: {x: 1, y: 0, z: 0, w: 1}
+>>>>>>> Stashed changes
       customData: 
       outline: []
       physicsShape: []
@@ -156,10 +166,17 @@ TextureImporter:
       name: walls_floor_1
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
         x: 16
         y: 352
         width: 16
         height: 16
+=======
+        x: 3
+        y: 292
+        width: 43
+        height: 37
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,10 +195,17 @@ TextureImporter:
       name: walls_floor_2
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
         x: 32
         y: 352
         width: 16
         height: 16
+=======
+        x: 157
+        y: 290
+        width: 38
+        height: 14
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,10 +246,17 @@ TextureImporter:
       name: walls_floor_4
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
         x: 64
         y: 352
         width: 16
         height: 16
+=======
+        x: 0
+        y: 0
+        width: 32
+        height: 80
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,10 +319,17 @@ TextureImporter:
       name: walls_floor_7
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
         x: 112
         y: 352
         width: 16
         height: 16
+=======
+        x: 160
+        y: 223
+        width: 48
+        height: 33
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,8 +338,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 0ecf6102abf99424cbbf860f5fed5177
       internalID: -1048153053
+=======
+      spriteID: 477199d09536c54459e0c7d4dcfc878f
+      internalID: -1804269871
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -310,10 +353,17 @@ TextureImporter:
       name: walls_floor_8
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
         x: 128
         y: 352
         width: 16
         height: 16
+=======
+        x: 67
+        y: 350
+        width: 4
+        height: 7
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,6 +372,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 8e38c884b9cffdc4c84a8fe71f7255e9
       internalID: -638560626
       vertices: []
@@ -6286,6 +6337,10 @@ TextureImporter:
       bones: []
       spriteID: ccba8f73342cccf48a3cf05e704fd9ac
       internalID: -447079432
+=======
+      spriteID: f0075ed2106ce3545b0dfd3c5e840fc7
+      internalID: 264106310
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -6294,7 +6349,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream
     spriteID: 8af1a065a97b90341b42f0f0c3f0e864
+=======
+    spriteID: 55fad38630208994481a8e9d5b9ac36b
+>>>>>>> Stashed changes
     internalID: 0
     vertices: []
     indices: 
@@ -6543,6 +6602,7 @@ TextureImporter:
       walls_floor_58: -1498998549
       walls_floor_59: -306373350
       walls_floor_6: 1749869392539340092
+<<<<<<< Updated upstream
       walls_floor_60: -1947274875
       walls_floor_61: 1919142006
       walls_floor_62: 321244470
@@ -6586,6 +6646,10 @@ TextureImporter:
       walls_floor_97: -1055831205
       walls_floor_98: -727861678
       walls_floor_99: 1641833141
+=======
+      walls_floor_7: -1804269871
+      walls_floor_8: 264106310
+>>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

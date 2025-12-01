@@ -11,6 +11,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Settings.unity
     guid: 77dbd862409741a468331ee0142a8712
+  - enabled: 1
+    path: Assets/Scenes/Mapping.unity
+    guid: 6f4eb07b7b2822d43bcc188aec3428f8
+  - enabled: 1
+    path: Assets/Scenes/Mapping1.unity
+    guid: 4819e3ee8bc27d54c8788bfd7569cfa1
+  - enabled: 1
+    path: Assets/Scenes/Mapping2.unity
+    guid: 598b13f8eaa2657469602e1deb6609bb
+  - enabled: 1
+    path: Assets/Scenes/Mapping3.unity
+    guid: 013bed746ba0b4343b12121f66229db8
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
